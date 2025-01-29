@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Rijul Ugawekar!
 
+![Rijul's Profile Image](https://github.com/techwthjul/techwthjul.github.io/blob/main/rijul%20photo.jpg?raw=true)
+
 I'm pursuing a master's in Information Systems at Syracuse University (GPA: 3.7/4), specializing in Data Science and Analytics.  
 I have a passion for turning raw data into meaningful insights and solving complex, real-world problems.
 
